@@ -1,0 +1,5 @@
+hello	xin chào
+how are you?	bạn khỏe không?
+good morning	chào buổi sáng
+thank you	cảm ơn bạn
+see you later	hẹn gặp lại
